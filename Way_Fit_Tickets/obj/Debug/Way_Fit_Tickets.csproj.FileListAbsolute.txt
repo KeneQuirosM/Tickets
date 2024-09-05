@@ -1,0 +1,13 @@
+c:\users\kenet\documents\visual studio 2013\Projects\Way_Fit_Tickets\Way_Fit_Tickets\bin\Debug\Way_Fit_Tickets.exe.config
+c:\users\kenet\documents\visual studio 2013\Projects\Way_Fit_Tickets\Way_Fit_Tickets\bin\Debug\Way_Fit_Tickets.exe
+c:\users\kenet\documents\visual studio 2013\Projects\Way_Fit_Tickets\Way_Fit_Tickets\bin\Debug\Way_Fit_Tickets.pdb
+c:\users\kenet\documents\visual studio 2013\Projects\Way_Fit_Tickets\Way_Fit_Tickets\obj\Debug\Way_Fit_Tickets.Form1.resources
+c:\users\kenet\documents\visual studio 2013\Projects\Way_Fit_Tickets\Way_Fit_Tickets\obj\Debug\Way_Fit_Tickets.Properties.Resources.resources
+c:\users\kenet\documents\visual studio 2013\Projects\Way_Fit_Tickets\Way_Fit_Tickets\obj\Debug\Way_Fit_Tickets.csproj.GenerateResource.Cache
+c:\users\kenet\documents\visual studio 2013\Projects\Way_Fit_Tickets\Way_Fit_Tickets\obj\Debug\Way_Fit_Tickets.exe
+c:\users\kenet\documents\visual studio 2013\Projects\Way_Fit_Tickets\Way_Fit_Tickets\obj\Debug\Way_Fit_Tickets.pdb
+C:\Users\kenet\documents\visual studio 2013\Projects\Way_Fit_Tickets\Way_Fit_Tickets\obj\Debug\Way_Fit_Tickets.Usuarios.resources
+C:\Users\kenet\documents\visual studio 2013\Projects\Way_Fit_Tickets\Way_Fit_Tickets\obj\Debug\Way_Fit_Tickets.Historial.resources
+C:\Users\kenet\documents\visual studio 2013\Projects\Way_Fit_Tickets\Way_Fit_Tickets\obj\Debug\Way_Fit_Tickets.Pagos.resources
+C:\Users\kenet\documents\visual studio 2013\Projects\Way_Fit_Tickets\Way_Fit_Tickets\obj\Debug\Way_Fit_Tickets.Servicios.resources
+C:\Users\kenet\documents\visual studio 2013\Projects\Way_Fit_Tickets\Way_Fit_Tickets\obj\Debug\Way_Fit_Tickets.csprojResolveAssemblyReference.cache
